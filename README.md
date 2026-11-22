@@ -4,6 +4,9 @@ Four administrative workflows designed for Saini IT Services, an academic IT sup
 
 Developed for COM203 at Murdoch University, the project explores how AI can assist with summarising information, drafting documents and organising requests while retaining human judgement.
 
+
+[View or download my SQL database assignment](PASTE_FILE_URL_HERE)
+
 ## Project Objective
 
 Identify repetitive administrative tasks and design practical AI-assisted processes that support efficient work, accurate communication and responsible handling of client information.
