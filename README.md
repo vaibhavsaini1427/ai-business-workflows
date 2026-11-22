@@ -4,7 +4,7 @@ Four administrative workflows designed for Saini IT Services, an academic IT sup
 
 Developed for COM203 at Murdoch University, the project explores how AI can assist with summarising information, drafting documents and organising requests while retaining human judgement.
 
-
+# If GitHub cannot display a preview, click “View raw” to download and open the report.
 [View or download my AI Agents document](https://github.com/vaibhavsaini1427/ai-business-workflows/blob/main/assinment%201%20com203.docx)
 
 ## Project Objective
